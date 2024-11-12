@@ -5,7 +5,7 @@ This project provides an analysis of various genomic datasets, focusing on compa
 
 ## Project Structure
 - **`Genome_Analysis_Project.ipynb`**: The main Jupyter Notebook file containing all data loading, processing, visualization, and analysis code.
-- **`data/`**: A folder containing all CSV files for different genomic datasets:
+- **`Resources/Organisms`**: A folder containing all CSV files for different genomic datasets:
   - `eukaryotes.csv`
   - `genomes.csv`
   - `organelles.csv`
